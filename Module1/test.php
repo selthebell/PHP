@@ -29,6 +29,6 @@
 	}
 
 </script>
-<?php phpinfo();?>
+<?php phpinfo(); echo 'Hi' ?>
 	</body>
 </html>
