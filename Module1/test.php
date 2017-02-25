@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-	<title>FirstApplication1</title>
+	<title>FirstApplication12</title>
 		<link rel='stylesheet' href='main.css'>
 	</head>
 	<body>
